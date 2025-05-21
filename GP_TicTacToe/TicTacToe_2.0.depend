@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1746465754 source:d:\filecodeblocks\tictactoe_2.0\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	"graphics.h"
+	"game.h"
+	"StartScreen.h"
+	"gameRun.h"
+	"gameEnd.h"
+
+1746111664 d:\filecodeblocks\tictactoe_2.0\defs.h
+	<SDL.h>
+
+1746548700 d:\filecodeblocks\tictactoe_2.0\graphics.h
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_Mixer.h>
+	<SDL_ttf.h>
+	"defs.h"
+
+1746598255 d:\filecodeblocks\tictactoe_2.0\game.h
+	<algorithm>
+	<SDL.h>
+	"graphics.h"
+
+1746598255 source:d:\filecodeblocks\tictactoe_2.0\game.cpp
+	"game.h"
+
+1746111664 source:d:\filecodeblocks\tictactoe_2.0\defs.cpp
+	"defs.h"
+
+1746094216 d:\filecodeblocks\tictactoe_2.0\highscore.h
+	<fstream>
+
+1746465181 source:d:\filecodeblocks\tictactoe_2.0\startscreen.cpp
+	"StartScreen.h"
+
+1745946816 d:\filecodeblocks\tictactoe_2.0\startscreen.h
+	<SDL.h>
+	<cmath>
+	"graphics.h"
+	"game.h"
+
+1746557442 source:d:\filecodeblocks\tictactoe_2.0\gamerun.cpp
+	<iostream>
+	<algorithm>
+	"gameRun.h"
+
+1746119074 d:\filecodeblocks\tictactoe_2.0\gamerun.h
+	<SDL.h>
+	"graphics.h"
+	"game.h"
+
+1746465322 source:d:\filecodeblocks\tictactoe_2.0\gameend.cpp
+	"gameEnd.h"
+
+1746115429 d:\filecodeblocks\tictactoe_2.0\gameend.h
+	<SDL.h>
+	<iostream>
+	"game.h"
+	"gameRun.h"
+	"graphics.h"
+	"highscore.h"
+
